@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Three-Ai-lab/Kouman-AI/main/logo.png" alt="Tree AI Lab Logo" width="160"/>
+  <img src="./logo.png" alt="Tree AI Lab Logo" width="160"/>
 
   # 🌳 Tree AI Lab
   ### *Sovereign & High-Impact Artificial Intelligence for Africa*
